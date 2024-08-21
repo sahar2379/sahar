@@ -42,3 +42,8 @@ body {
 .footer-link:hover {
     color: #000;
 }
+
+.card-primary {
+    background: #1b2a4e;
+    color: white !important;
+}
